@@ -3,7 +3,7 @@ title: "plasmonWidget"
 date: 2019-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/featured-post/plasmonWidget.jpg"
+image: "images/featured-post/plasmonWidget.png"
 categories:
   - "Physics"
 tags:
