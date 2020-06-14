@@ -1,5 +1,5 @@
 # default config
-baseURL = "https://test.waldoCorp.com/ben_test/homepage_test"
+baseURL = "https://waldocorp.com"
 languageCode = "en-us"
 title = "waldoCorp"
 theme = "hugo-creative-portfolio-theme"
